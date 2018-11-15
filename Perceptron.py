@@ -8,7 +8,6 @@ class Perceptron(object):
         self.n_iter = n_iter
         
     def fit(self, X, y):
-        
 # =============================================================================
 #          X : {array-like}, shape = [n_samples, n_features]            
 #          Training vectors, where n_samples             
